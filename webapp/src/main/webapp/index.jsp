@@ -3,3 +3,4 @@
 <h2> Glad to see you here </h2>
 <h2> this is finish of chapter Section 4 </h2>
 <h2> deletiong of conatiner and images is automatic  finallll for aws and ubuntu</h2>
+<h2> project with ansible playbook</h2>
